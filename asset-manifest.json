@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weboin-assessment/static/css/main.f3db872d.css",
+    "main.css": "/weboin-assessment/static/css/main.bf100845.css",
     "main.js": "/weboin-assessment/static/js/main.6e96b9df.js",
     "static/media/FoodieLogo.png": "/weboin-assessment/static/media/FoodieLogo.4417e9febff9298f6fa1.png",
     "static/media/iphone13-Layout.png": "/weboin-assessment/static/media/iphone13-Layout.05197556ef05ca345a26.png",
     "static/media/Map.webp": "/weboin-assessment/static/media/Map.e1afa5d672f062eb6690.webp",
     "index.html": "/weboin-assessment/index.html",
-    "main.f3db872d.css.map": "/weboin-assessment/static/css/main.f3db872d.css.map",
+    "main.bf100845.css.map": "/weboin-assessment/static/css/main.bf100845.css.map",
     "main.6e96b9df.js.map": "/weboin-assessment/static/js/main.6e96b9df.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3db872d.css",
+    "static/css/main.bf100845.css",
     "static/js/main.6e96b9df.js"
   ]
 }
